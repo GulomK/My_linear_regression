@@ -1,17 +1,22 @@
 # Welcome to My Linear Regression
-***
+Welcome to my project Linear Regression
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+What is the problem? And where is the challenge?
+My code dosen't has any problems
 
 ## Description
-TODO - How have you solved the problem?
+How have you solved the problem?
+My code dosen't has any problems
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+How to install your project? npm install? make? make re?
+You don't have to install something 
 
 ## Usage
-TODO - How does it work?
+How does it work?
+It's work with libary "NumPy" and "Sciki-learn"
+
 ```
 ./my_project argument1 argument2
 ```
